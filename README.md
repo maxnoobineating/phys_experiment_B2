@@ -1,2 +1,1 @@
-"# phys_experiment_B2"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/maxnoobineating/phys_experiment_B2.git git push -u origin main
-"# phys_experiment_B2" 
+"# phys_experiment_B2"
